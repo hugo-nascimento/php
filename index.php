@@ -3,4 +3,6 @@
     echo "Olá Mundo";
     echo </pre>;
 
+    echo "Olá HCode";
+
 ?>
